@@ -39,7 +39,7 @@ Go to project directory
   cd rule_based_classification
 ```
 
-Run the notebook.
+Run the notebook
 
 
 
